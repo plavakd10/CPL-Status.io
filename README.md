@@ -2,6 +2,8 @@ There are two datasets(for training and testing)
 
 Basic aim is to predict whether a person in test set will get loan approval
 
+
+
 The column descriptors are as follows:
 
   Loanapp_ID - Application ID 
